@@ -1,4 +1,4 @@
-![image](https://github.com/SumitKashyap27/SumitKashyap27/assets/98410799/f8b8bf75-0b64-4ced-b1ff-46e6033b7d57)<h1 align="center">Hi 👋, I'm Sumit Kashyap</h1>
+<h1 align="center">Hi 👋, I'm Sumit Kashyap</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **React, Angular**
